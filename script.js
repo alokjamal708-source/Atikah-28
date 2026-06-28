@@ -1,6 +1,6 @@
 let scene, camera, renderer, stars, starsNear;
-const photos = ['foto1.jpg.jpeg', 'foto2.jpg.jpeg', 'foto3.jpg.jpeg', 'foto4.jpg.jpeg', 'foto5.jpg.jpeg', 'foto6.jpg.jpeg', 'foto7.jpg.jpeg', 'foto8.jpg.jpeg', 'foto9.jpg.jpeg', 'foto10.jpg.jpeg']; 
-const quotesRandom = ["I Love You", "Kamu Cantik Banget", "HBD Sayang!", "My Universe", "❤️", "Kamu Hebat"];
+const photos = ['OMG.jpg', 'Cantikknyaa.jpg', 'Atikahgeulis.jpg', 'Atikah_cantik.jpg', 'Cantikk.jpg', 'Woww.jpg', 'MBG.jpg', 'Lucuu.jpg', 'PandT.jpg', 'Red.jpg']; 
+const quotesRandom = ["I Love You", "Kamu Cantik Banget", "HBD Cantik!", "My Universe", "❤️", "Kamu Hebat"];
 let photoIndex = 0;
 
 // --- 1. FUNGSI PRELOADER (Hacker Style) ---
@@ -157,10 +157,12 @@ function createFirework() {
 const ucapanUtama = [
     "> Selamat Ulang Tahun ya cantik!!!",
     "> Makasih udah jadi orang hebat, baik, tulus dan juga cantik!!",
-    "> Aku bangga banget punya kamu ❤️",
+    "> Aku bangga banget sama kamu ❤️",
     "> Semoga hadirnya aku bisa bawa kamu jadi pribadi lebih hebat.",
     "> Besar harapan aku kamu tetap terus di samping aku.",
-    "> Kalo Kata Sore: ",
+  "> Semoga kamu selalu bahagia ya, meski dengan kondisi apapun itu.",
+  "> Aku harap kamu jadi pribadi yang lebih baik kepannya yah.",
+  "> Semoga kamu panjang umur.",
     "> Jika harus hidup 10.000 kali, aku akan selalu memilihmu."
 ];
 
